@@ -1,0 +1,31 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1994\n1996\n68.93\n109.41\n112.90\n",
+      "output": "1 ano(s) abaixo (33% dos anos)\nm\u00e9dia dos anos abaixo: U$ 68.93\n2 ano(s) acima (67% dos anos)\nm\u00e9dia dos anos acima: U$ 111.16\n"
+    }
+  ],
+  "48b842aad4eea1848a2ab124bb25333b": {
+    "timestamp": "2015-05-25T15:01:33.038540",
+    "summary": ".F"
+  },
+  "a6f7f00ae93be0977794bfa917ca2745": {
+    "timestamp": "2015-05-25T16:04:28.836360",
+    "summary": ".."
+  },
+  "2587c63dc015745afaa8e24eb1444a3b": {
+    "timestamp": "2015-05-25T16:01:43.790910",
+    "summary": ".N"
+  },
+  "activity_revision": "1.1.0",
+  "key": "12026F5C000000",
+  "eeb1513edbb720432c05ec93cb6da490": {
+    "timestamp": "2015-05-25T15:01:22.526800",
+    "summary": ".F"
+  },
+  "ba22c7eafe57e3650be96ae29f1723db": {
+    "timestamp": "2015-05-25T15:00:45.088220",
+    "summary": ".F"
+  }
+}

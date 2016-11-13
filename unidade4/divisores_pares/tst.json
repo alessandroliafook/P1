@@ -1,0 +1,39 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "12\n",
+      "output": "2\n4\n6\n"
+    }
+  ],
+  "2ac89e639e9f84311dfe1a6d43668ba2": {
+    "timestamp": "2015-05-15T14:04:42.877540",
+    "md5": "2ac89e639e9f84311dfe1a6d43668ba2",
+    "summary": "ZVVVF",
+    "filename": "divisores_pares.py"
+  },
+  "filename": "divisores_pares.py",
+  "activity_revision": "1.1.0",
+  "392c92b9bc4dbe7a9df4937b1dc81959": {
+    "timestamp": "2015-05-15T14:06:26.259430",
+    "filename": "divisores_pares.py",
+    "md5": "392c92b9bc4dbe7a9df4937b1dc81959",
+    "summary": "FVVVF"
+  },
+  "key": "12911CC2000000",
+  "b51564c51fb9b9caa865b268bbd7af2c": {
+    "timestamp": "2015-05-19T12:41:31.415170",
+    "md5": "b51564c51fb9b9caa865b268bbd7af2c",
+    "filename": "divisores_pares.py"
+  },
+  "7ece5a4bf9ea8b7565da1393adaa4717": {
+    "timestamp": "2015-05-15T14:02:19.482760",
+    "summary": "FVVVF",
+    "filename": "divisores_pares.py",
+    "md5": "7ece5a4bf9ea8b7565da1393adaa4717"
+  },
+  "65e94bf537e7abae3769f27f0b9581a5": {
+    "timestamp": "2015-05-21T16:35:34.459970",
+    "summary": "...."
+  }
+}

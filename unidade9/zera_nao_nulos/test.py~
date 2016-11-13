@@ -1,0 +1,36 @@
+def zera_nao_nulos(m, lin, col):
+
+	# alterar linha para esquerda
+	for i in range(col, -1, -1):
+		if m[lin][i] == 0:
+			break
+		else:
+			m[lin][i] = 0
+
+	# alterar linha para direita
+	for j in range(col + 1, len(m[lin])):
+		if m[lin][j] == 0:
+			break
+		else:
+			m[lin][j] = 0
+
+if __name__ == "__main__":
+	jogo = [
+	    [1, 1, 1, 1, 1, 1],
+	    [1, 0, 0, 0, 1, 1],
+	    [1, 1, 1, 1, 1, 1],
+	    [1, 1, 1, 1, 1, 1],
+	    [1, 1, 1, 1, 1, 1],
+	    [1, 1, 1, 1, 1, 1],
+	]    
+
+	zera_nao_nulos(jogo, 3, 2)
+	print jogo
+	assert jogo == [
+	    [1, 1, 1, 1, 1, 1],
+	    [1, 0, 0, 0, 1, 1],
+	    [1, 1, 0, 1, 1, 1],
+	    [0, 0, 0, 0, 0, 0],
+	    [1, 1, 0, 1, 1, 1],
+	    [1, 1, 0, 1, 1, 1],
+	] 

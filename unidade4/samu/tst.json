@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "9\n10\n10\n6\n17\n12\n14\n14\n7\n6\n23\n30\n",
+      "output": "M\u00e9dia mensal de atendimentos: 13.17\n----\nM\u00eas 5: 17\nM\u00eas 7: 14\nM\u00eas 8: 14\nM\u00eas 11: 23\nM\u00eas 12: 30\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "3afc58f8fe43c559c9af3c767dcc6947": {
+    "timestamp": "2015-05-26T02:47:29.858700",
+    "summary": "...."
+  },
+  "key": "16826F5C000000"
+}

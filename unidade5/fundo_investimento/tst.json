@@ -1,0 +1,15 @@
+{
+  "fdf184010252891978ef8ada692c468a": {
+    "timestamp": "2015-06-05T03:08:44.831240",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2.30\n2.30\n10.40\n5.60\n1.20\n",
+      "output": "Saldo total do FIS: R$20.60.\nM\u00e9dia das contribui\u00e7\u00f5es: R$5.15.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "13CB48E2000000"
+}

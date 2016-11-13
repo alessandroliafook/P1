@@ -1,0 +1,47 @@
+{
+  "e2422a0468b8694f69eb9bbc8eac3ff7": {
+    "timestamp": "2015-05-21T17:35:14.245160",
+    "summary": "..F.F.."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "algo\n",
+      "output": "aallggoo\nsenha insegura\n"
+    }
+  ],
+  "6dd6566f07bf41e84bc684a6c2dc853c": {
+    "timestamp": "2015-05-21T17:59:35.740540",
+    "summary": "F.F.F.."
+  },
+  "7956a8d9d8f291f35ff94d90438545a3": {
+    "timestamp": "2015-05-21T17:42:11.094420",
+    "summary": "*.*.*.."
+  },
+  "f4d74ff491cc62be04ead34a8ffe9631": {
+    "timestamp": "2015-05-21T18:00:02.250590",
+    "summary": "......."
+  },
+  "4b8860f4f014b48917c7049de778d650": {
+    "timestamp": "2015-05-21T17:42:37.386610",
+    "summary": "*.*.*.."
+  },
+  "b2a60dc78631f3045f4e9b02b88a3c52": {
+    "timestamp": "2015-05-21T17:30:10.103600",
+    "summary": "..F.F.."
+  },
+  "activity_revision": "1.1.0",
+  "key": "1692EE82000000",
+  "f4ef6e3fd924a5000f7f6a51c5a6151f": {
+    "timestamp": "2015-05-21T17:39:57.267820",
+    "summary": "..F.F.."
+  },
+  "9ca05b673307f6601264f3723a3aef01": {
+    "timestamp": "2015-05-21T17:34:18.246750",
+    "summary": "..F.F.."
+  },
+  "4498fd63a098d7a758c3aabed9ae799d": {
+    "timestamp": "2015-05-21T17:55:01.567660",
+    "summary": "......."
+  }
+}

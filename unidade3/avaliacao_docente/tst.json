@@ -1,0 +1,32 @@
+{
+  "86d4c1f6c069f4551d0b07dbf250fa5f": {
+    "timestamp": "2015-05-15T13:41:36.869880",
+    "md5": "86d4c1f6c069f4551d0b07dbf250fa5f",
+    "summary": "...........",
+    "filename": "avaliacao_docente.py"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n340\n120\n40 \n500\n",
+      "output": "Promo\u00e7\u00e3o indeferida. N\u00famero de semestres insuficiente.\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n300\n120\n40\n500\n",
+      "output": "Promo\u00e7\u00e3o indeferida. Pontua\u00e7\u00e3o m\u00ednima n\u00e3o alcan\u00e7ada.\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n320\n110\n20\n10\n",
+      "output": "Promo\u00e7\u00e3o indeferida. M\u00e9dia insuficiente.\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n330\n150\n40\n350\n",
+      "output": "Promo\u00e7\u00e3o deferida. Parab\u00e9ns!\n"
+    }
+  ],
+  "key": "127B94C2000000",
+  "filename": "5202428420947968.py"
+}

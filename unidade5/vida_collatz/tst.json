@@ -1,0 +1,20 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "22\n",
+      "output": "16\n"
+    },
+    {
+      "category": "public",
+      "input": "16\n",
+      "output": "5\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "0ef7a4a68686955892cafa43b573329a": {
+    "timestamp": "2015-06-05T02:58:54.362870",
+    "summary": "......"
+  },
+  "key": "11EA8F12000000"
+}

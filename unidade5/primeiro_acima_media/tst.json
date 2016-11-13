@@ -1,0 +1,15 @@
+{
+  "aa07449546988a8f3e942827db8dc8e9": {
+    "timestamp": "2015-06-05T03:17:47.206850",
+    "summary": "......"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "3.6\n3.2\n3.9\n4.8\n4.1\nfim\n",
+      "output": "3, 4.80 > 3.92\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "12887C32000000"
+}

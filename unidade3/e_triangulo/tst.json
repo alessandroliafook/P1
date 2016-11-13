@@ -1,0 +1,22 @@
+{
+  "4e6cd2273fb8077fa884785c56c614da": {
+    "timestamp": "2015-05-15T13:49:55.253790",
+    "md5": "4e6cd2273fb8077fa884785c56c614da",
+    "summary": "......",
+    "filename": "e_triangulo.py"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n2\n2\n",
+      "output": "triangulo valido. 6\n"
+    },
+    {
+      "category": "public",
+      "input": "20\n10\n5\n",
+      "output": "triangulo invalido.\n"
+    }
+  ],
+  "key": "133B94C2000000",
+  "filename": "5413534653480960.py"
+}

@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "tri\u00e2ngulo\n3.0\n8.0\n",
+      "output": "\u00c1rea do tri\u00e2ngulo: 12.00 (cm2)\n"
+    },
+    {
+      "category": "public",
+      "input": "c\u00edrculo\n2\n",
+      "output": "\u00c1rea do c\u00edrculo: 12.57 (cm2)\n"
+    }
+  ],
+  "16b7ef9f70f9a5c6b064e6a819191b97": {
+    "timestamp": "2015-05-12T13:38:29.081720",
+    "filename": "area_figuras_planas.py",
+    "summary": ".....",
+    "md5": "16b7ef9f70f9a5c6b064e6a819191b97"
+  },
+  "key": "164FE61C000000",
+  "filename": "6280299218468864.py"
+}

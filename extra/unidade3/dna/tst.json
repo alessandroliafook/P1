@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "AGCT\nTTTGGA\nACT\n",
+      "output": "ACT 3\n"
+    },
+    {
+      "category": "public",
+      "input": "CCGG\nCCAA\nACTGGG\n",
+      "output": "CCGG 4\n"
+    }
+  ],
+  "ad517cd4be66aaa2899912de1f5900e0": {
+    "timestamp": "2015-05-12T13:52:16.829230",
+    "filename": "dna.py",
+    "summary": ".......",
+    "md5": "ad517cd4be66aaa2899912de1f5900e0"
+  },
+  "key": "12D4593C000000",
+  "filename": "5300029304602624.py"
+}

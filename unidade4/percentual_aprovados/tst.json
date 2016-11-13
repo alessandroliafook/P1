@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n10.0\n4.0\nF\n8.0\n",
+      "output": "50% (2/4) de aprovados\n"
+    }
+  ],
+  "f24618e63c78f39fe4599df3ecfe519e": {
+    "timestamp": "2015-05-15T13:53:12.720130",
+    "md5": "f24618e63c78f39fe4599df3ecfe519e",
+    "summary": "...",
+    "filename": "percentual_aprovados.py"
+  },
+  "key": "1421DE1C000000",
+  "filename": "5666737370431488.py"
+}

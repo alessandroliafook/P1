@@ -1,0 +1,23 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": null,
+      "output": "15.2\n13.7\n12.2\n10.7\n9.2\n7.7\n6.2\n4.7\n3.2\n1.7\n0.2\n-1.3\n-2.8\n-4.3\n-5.8\n"
+    }
+  ],
+  "9d238fff402aae0ac3f9326906dcf62f": {
+    "timestamp": "2015-05-15T16:03:06.867240",
+    "filename": "serie_float.py",
+    "md5": "9d238fff402aae0ac3f9326906dcf62f",
+    "summary": "FFFFFFF"
+  },
+  "72332ef9412255caef1e097be32df8bc": {
+    "timestamp": "2015-05-15T16:06:34.764830",
+    "summary": "FFFFFFF",
+    "filename": "serie_float.py",
+    "md5": "72332ef9412255caef1e097be32df8bc"
+  },
+  "key": "1336BCC2000000",
+  "filename": "serie_float.py"
+}

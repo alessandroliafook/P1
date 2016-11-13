@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n-7\n2\n",
+      "output": "0\n"
+    },
+    {
+      "category": "public",
+      "input": "5\n5\n5\n",
+      "output": "3\n"
+    },
+    {
+      "category": "public",
+      "input": "-1\n4\n4\n",
+      "output": "2\n"
+    }
+  ],
+  "3a73a31e171665d43647e9a15bd4e01b": {
+    "timestamp": "2015-05-15T13:43:30.750270",
+    "md5": "3a73a31e171665d43647e9a15bd4e01b",
+    "summary": "......",
+    "filename": "numeros_iguais.py"
+  },
+  "key": "146BFD62000000",
+  "filename": "5748235549278208.py"
+}

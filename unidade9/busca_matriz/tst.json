@@ -1,0 +1,20 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "files": [
+        "public_tests.py"
+      ],
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "filename": "public_tests.py",
+  "tst_files": [],
+  "activity_revision": "1.0.0",
+  "key": "139FB84A000000",
+  "74407b4e1288fe1b46d0e1c8683f7b90": {
+    "timestamp": "2015-11-09T13:34:20.343900",
+    "summary": "..."
+  }
+}

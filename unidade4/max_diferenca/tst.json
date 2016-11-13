@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n10.5\n8.5\n3.2\n-3.1\n",
+      "output": "3.2 e -3.1\n"
+    }
+  ],
+  "c8c0adfa70a61eaa7c3ce848bf2d7f3d": {
+    "timestamp": "2015-05-25T13:35:43.403170",
+    "summary": ".X....."
+  },
+  "7e5baec1124fdca4161372369bd0f265": {
+    "timestamp": "2015-05-25T13:38:30.984820",
+    "summary": "......."
+  },
+  "activity_revision": "1.1.0",
+  "key": "11708182000000",
+  "a164b1a4b5e3f1332ef4fe831bb21ea1": {
+    "timestamp": "2015-05-25T13:27:53.508050",
+    "summary": "FXF..F."
+  },
+  "4a6ce7b0fdcdcca33e8d6020a07b50a9": {
+    "timestamp": "2015-05-25T13:23:03.309830",
+    "summary": ".X....."
+  }
+}

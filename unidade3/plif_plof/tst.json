@@ -1,0 +1,22 @@
+{
+  "6fcdc8430a68311909bc6f800b7012ef": {
+    "timestamp": "2015-05-15T13:44:18.720500",
+    "md5": "6fcdc8430a68311909bc6f800b7012ef",
+    "summary": ".....",
+    "filename": "plif_plof.py"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n2\n3\n",
+      "output": "plof\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n4\n4\n",
+      "output": "plif\n"
+    }
+  ],
+  "key": "16251682000000",
+  "filename": "6233228088180736.py"
+}

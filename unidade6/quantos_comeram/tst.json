@@ -1,0 +1,18 @@
+{
+  "d30998020c21e42df8976edf930a0835": {
+    "timestamp": "2015-06-10T22:14:37.501880",
+    "summary": "..............."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "files": [
+        "public_tests.py"
+      ],
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "168C209C000000"
+}

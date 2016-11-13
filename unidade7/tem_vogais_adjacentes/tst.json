@@ -1,0 +1,20 @@
+{
+  "8437d6a35ccd5722cffa1bf6bd6ff776": {
+    "timestamp": "2015-06-29T17:32:06.304320",
+    "summary": "..........."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "orfeu\n",
+      "output": "sim\n"
+    },
+    {
+      "category": "public",
+      "input": "brasil\n",
+      "output": "nao\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "11936332000000"
+}

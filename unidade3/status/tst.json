@@ -1,0 +1,38 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n5.0\n25\n",
+      "output": "reprovado por faltas\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n2.0\n3.0\n3\n",
+      "output": "reprovado por nota\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n5.0\n5\n",
+      "output": "prova final\n"
+    },
+    {
+      "category": "public",
+      "input": "10.0\n10.0\n10.0\n7\n",
+      "output": "aprovado por media\n"
+    }
+  ],
+  "6ba6f39fe912966c7a036da4e792d29c": {
+    "timestamp": "2015-05-15T13:45:13.829650",
+    "summary": "....F.....",
+    "filename": "status.py",
+    "md5": "6ba6f39fe912966c7a036da4e792d29c"
+  },
+  "5f7d7521e4bb05d0dba9b5aba5ca02cb": {
+    "timestamp": "2015-05-15T13:47:21.331160",
+    "md5": "5f7d7521e4bb05d0dba9b5aba5ca02cb",
+    "summary": "..........",
+    "filename": "status.py"
+  },
+  "key": "15ED2362000000",
+  "filename": "6171710734729216.py"
+}

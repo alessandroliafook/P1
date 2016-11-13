@@ -1,0 +1,19 @@
+{
+  "59649d04f43b80ded46d25143cd99f29": {
+    "timestamp": "2015-06-05T04:19:32.640910",
+    "summary": "FFFFF"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n10.10\nsaque 5.00\ndep\u00f3sito 10.00\nsaque 10.10\ndep\u00f3sito 50.00\ndep\u00f3sito 120.00\nsaque 10.00\nsaque 10.00\nsaque 15.00\nsaque 20.00\n",
+      "output": "Opera\u00e7\u00e3o inv\u00e1lida: saque 20.00.\nSeu saldo \u00e9 R$ 140.00.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "3ee899230730c06491ff3e246d90351f": {
+    "timestamp": "2015-06-05T04:20:17.292740",
+    "summary": "....."
+  },
+  "key": "119E84E2000000"
+}

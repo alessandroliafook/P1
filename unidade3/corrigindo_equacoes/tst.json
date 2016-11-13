@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "3\n-7\n2\n",
+      "output": "x1 = 2.00\nx2 = 0.33\n"
+    },
+    {
+      "category": "public",
+      "input": "5\n-6\n5\n",
+      "output": "sem raizes reais\n"
+    },
+    {
+      "category": "public",
+      "input": "-1\n4\n-4\n",
+      "output": "x = 2.00\n"
+    }
+  ],
+  "33361936178fb1d2fb43c49350acd2fd": {
+    "timestamp": "2015-05-12T14:34:49.228510",
+    "md5": "33361936178fb1d2fb43c49350acd2fd",
+    "summary": ".........",
+    "filename": "eq2grau.py"
+  },
+  "key": "1788C61C000000",
+  "filename": "6624308919009280.py"
+}

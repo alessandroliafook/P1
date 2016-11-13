@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n",
+      "output": "5 n\u00e3o \u00e9 um n\u00famero perfeito.\n"
+    },
+    {
+      "category": "public",
+      "input": "6\n",
+      "output": "6 \u00e9 um n\u00famero perfeito.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "21a5fd6eca56b3d29def5b5a77b08144": {
+    "timestamp": "2015-05-26T13:45:10.171830"
+  },
+  "key": "12DA3D3C000000"
+}

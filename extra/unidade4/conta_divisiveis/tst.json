@@ -1,0 +1,17 @@
+{
+  "8f26a68cb8191768be5cc9ec7955ff21": {
+    "timestamp": "2015-05-15T13:54:57.308030",
+    "md5": "8f26a68cb8191768be5cc9ec7955ff21",
+    "summary": "...",
+    "filename": "conta_divisiveis.py"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "9\n3\n20\n18\n15\n",
+      "output": "1 (33.3%)\n"
+    }
+  ],
+  "key": "166374C2000000",
+  "filename": "6301802609770496.py"
+}

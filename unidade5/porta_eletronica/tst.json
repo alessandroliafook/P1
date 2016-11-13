@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "R A12345\nR A12345\nP A\nR A00007\nP A\nR B90000\nP B\nR B90001\nP B\nS\n",
+      "output": "2\n3\n1\n2\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "12c744a47a546fd281fe5c314b5ab461": {
+    "timestamp": "2015-06-05T01:34:09.186460",
+    "summary": "....."
+  },
+  "key": "11F961C2000000"
+}

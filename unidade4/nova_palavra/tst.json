@@ -1,0 +1,19 @@
+{
+  "activity_revision": "1.1.1",
+  "tests": [
+    {
+      "category": "public",
+      "input": "bola\n1234\n",
+      "output": "bbbbboooolllaa\n"
+    }
+  ],
+  "e9e9d92ce626467d9c95ca60e47802d6": {
+    "timestamp": "2015-05-21T15:10:34.148300",
+    "summary": "FFFFFFFFF"
+  },
+  "2c558960e5cb7e9594ca1dd19af6764a": {
+    "timestamp": "2015-05-21T16:31:54.636900",
+    "summary": "........."
+  },
+  "key": "1515B91C000000"
+}

@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n6\n7\n15\n8\n",
+      "output": "soma: 14\nm\u00e9dia: 7.0\n1 n\u00famero(s) abaixo da m\u00e9dia\n"
+    }
+  ],
+  "key": "1619547C000000",
+  "filename": "6220300135956480.py"
+}

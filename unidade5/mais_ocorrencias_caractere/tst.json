@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "um\nexemplo\nde\nentrada\npara\na\nquestao\ndo\nminiteste\nfim\na\n1\n",
+      "output": "entrada\npara\n"
+    }
+  ],
+  "640ba0f31d69a9ca98e13f72e19bc365": {
+    "timestamp": "2015-06-05T03:27:06.720570",
+    "summary": "....."
+  },
+  "activity_revision": "1.0.0",
+  "key": "13F1BE7C000000"
+}

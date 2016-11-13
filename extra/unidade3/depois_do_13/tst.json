@@ -1,0 +1,32 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "8\n5\n13\n",
+      "output": "0\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n2\n3\n",
+      "output": "6\n"
+    },
+    {
+      "category": "public",
+      "input": "13\n1\n2\n",
+      "output": "0\n"
+    },
+    {
+      "category": "public",
+      "input": "1\n2\n13\n",
+      "output": "3\n"
+    }
+  ],
+  "a789923a24e8f1d89840fbf0d650cdeb": {
+    "timestamp": "2015-05-15T13:42:40.122510",
+    "md5": "a789923a24e8f1d89840fbf0d650cdeb",
+    "summary": ".........",
+    "filename": "depois_do_13.py"
+  },
+  "key": "1536A35C000000",
+  "filename": "5971049761996800.py"
+}

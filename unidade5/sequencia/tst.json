@@ -1,0 +1,29 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "20\n",
+      "output": "1\n2\n4\n8\n"
+    },
+    {
+      "category": "public",
+      "input": "2\n",
+      "output": "1\n"
+    },
+    {
+      "category": "public",
+      "input": "10\n",
+      "output": "1\n2\n4\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "a5975833283b5648b4b3c4e04bd94bef": {
+    "timestamp": "2015-06-05T03:37:38.590770",
+    "summary": "......."
+  },
+  "key": "178E417C000000",
+  "2968f7051065c14a8e88c85acf7d5008": {
+    "timestamp": "2015-06-05T03:36:54.980490",
+    "summary": "....FF."
+  }
+}

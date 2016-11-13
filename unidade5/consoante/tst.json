@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "asa\ncontrole\njanela\n***\n",
+      "output": "Palavras: 2\n"
+    }
+  ],
+  "7c6caa41c0707ab8e3f4081d988d1066": {
+    "timestamp": "2015-06-05T01:09:23.652870",
+    "summary": "....."
+  },
+  "activity_revision": "1.0.2",
+  "key": "12B65F1C000000"
+}
